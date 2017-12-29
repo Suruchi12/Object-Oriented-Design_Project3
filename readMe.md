@@ -17,6 +17,14 @@ it runs that HTML file and all the links associated with it.
 The other browser opens the main page which is the start file where all the links of all the files are present and 
 you can traverse to any other file through it.
 
+***Requirement 1***
+
+Used Visual Studio 2015 and its C++ Windows console projects, as provided in the ECS computer labs.
+
+***Requirement 2***
+
+Used the C++ standard library's streams for all console I/O and new and delete for all heap-based memory management1.
+
 ***Requirement 3***
 
 Provides creation of web pages of .cpp and .h files from the dependency table
