@@ -23,7 +23,7 @@ Used Visual Studio 2015 and its C++ Windows console projects, as provided in the
 
 ***Requirement 2***
 
-Used the C++ standard library's streams for all console I/O and new and delete for all heap-based memory management1.
+Used the C++ standard library's streams for all console I/O and new and delete for all heap-based memory management.
 
 ***Requirement 3***
 
