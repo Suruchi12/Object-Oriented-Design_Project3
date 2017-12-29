@@ -1,6 +1,6 @@
 # Code Publisher
 
-#### Object Oriented Desing
+#### Object Oriented Design
 #### CSE 687
 #### Project 3
 
@@ -18,16 +18,29 @@ The other browser opens the main page which is the start file where all the link
 you can traverse to any other file through it.
 
 ***Requirement 3***
---Provides creation of web pages of .cpp and .h files from the dependency table
+
+Provides creation of web pages of .cpp and .h files from the dependency table
+
 ***Requirement 4***
---expands and collapses classes and functions
+
+Expands and collapses classes and functions
+
 ***Requirement 5***
---Provides a css file
+
+Provides a css file
+
 ***Requirement 6***
--The head of the HTML file contains links to the css file
+
+The head of the HTML file contains links to the css file
+
 ***Requirement 7***
--Each HTML file has its name on top and then the links to the depenedency files
-***Requirement 8**
--There is a command line processing for file path and patterns
+
+Each HTML file has its name on top and then the links to the depenedency files
+
+***Requirement 8***
+
+There is a command line processing for file path and patterns
+
 ***Requirement 9***
--The code runs on the Analyzer Project
+
+The code runs on the Analyzer Project
